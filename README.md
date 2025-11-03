@@ -1,2 +1,0 @@
-# Voyage
-USYD Tower Adventure
